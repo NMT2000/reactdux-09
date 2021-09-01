@@ -1,0 +1,10 @@
+.form-group {
+    margin-bottom: 10px;
+}
+.form__name {
+    font-size: 13px;
+    font-weight: 700;
+}
+.form-control {
+    font-size: 14px;
+}

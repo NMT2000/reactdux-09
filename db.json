@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Nguyễn Minh Thông",
+      "mssv": "06102000",
+      "diachi": "TayNinh",
+      "tuoi": "21",
+      "webiste": "Helloo mấy bạn",
+      "id": 5
+    },
+    {
+      "name": "Võ Phi Phàm",
+      "mssv": "12032001",
+      "diachi": "DongThap",
+      "tuoi": "20",
+      "webiste": "Heloo friend..",
+      "id": 6
+    },
+    {
+      "name": "Phạm Hoàng Quy",
+      "mssv": "23102000",
+      "diachi": "TayNinh",
+      "tuoi": "21",
+      "webiste": "Helo",
+      "id": 7
+    }
+  ]
+}
